@@ -2,7 +2,7 @@ import Vue from 'vue';
 import Router from 'vue-router';
 import { Message } from 'element-ui';
 
-import Login from '@/components/login/login';
+import Login from '@/pages/login/login';
 import Home from '@/components/home/home';
 import UserList from '@/components/userlist/user-list';
 import RoleList from '@/components/rolelist/role-list';

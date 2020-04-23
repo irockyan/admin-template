@@ -4,7 +4,7 @@ import Vue from 'vue';
 //  引入组件库
 import { Form, FormItem, Input, Button } from 'element-ui';
 import '@/assets/css/style.css';
-import http from '@/assets/js/http';
+import http from '@/helper/js/http';
 import MyBreadcrumb from '@/components/common/brandcrumb';
 import App from './App';
 import router from './router';
